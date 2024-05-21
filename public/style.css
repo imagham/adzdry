@@ -923,6 +923,18 @@ video {
   font-size: 9px;
 }
 
+.text-\[40px\] {
+  font-size: 40px;
+}
+
+.text-\[39px\] {
+  font-size: 39px;
+}
+
+.text-\[38px\] {
+  font-size: 38px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -944,6 +956,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-\[px\] {
+  color: px;
 }
 
 .shadow-lg {
