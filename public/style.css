@@ -669,6 +669,22 @@ video {
   margin-top: 9px;
 }
 
+.ml-\[3\%\] {
+  margin-left: 3%;
+}
+
+.ml-\[5\%\] {
+  margin-left: 5%;
+}
+
+.ml-\[10\%\] {
+  margin-left: 10%;
+}
+
+.ml-\[8\%\] {
+  margin-left: 8%;
+}
+
 .flex {
   display: flex;
 }
